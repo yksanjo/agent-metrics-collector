@@ -1,5 +1,12 @@
 # agent-metrics-collector
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-metrics-collector/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-metrics-collector/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-metrics-collector)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-metrics-collector)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-metrics-collector)
+
 ## Detailed Description
 
 agent-metrics-collector is maintained as an industry-grade software project with production-ready engineering practices.  
